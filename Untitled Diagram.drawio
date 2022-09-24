@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T04:29:43.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="Wt8ecqID7Ft7r4-lZ32n" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T04:31:06.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="BoFqmNMNhHCAZIM4MA_q" version="20.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,10 +105,10 @@
           <mxGeometry x="1260" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8m7cwNHLDLbDDxXpmGs-0" value="Stok Barang" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="600" width="510" height="700" as="geometry" />
+          <mxGeometry x="70" y="600" width="510" height="630" as="geometry" />
         </mxCell>
         <mxCell id="v8m7cwNHLDLbDDxXpmGs-1" value="Supplier" style="swimlane;html=1;startSize=20;" vertex="1" parent="v8m7cwNHLDLbDDxXpmGs-0">
-          <mxGeometry y="20" width="230" height="680" as="geometry" />
+          <mxGeometry y="20" width="230" height="610" as="geometry" />
         </mxCell>
         <mxCell id="v8m7cwNHLDLbDDxXpmGs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v8m7cwNHLDLbDDxXpmGs-1" source="v8m7cwNHLDLbDDxXpmGs-4" target="v8m7cwNHLDLbDDxXpmGs-5">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="65" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v8m7cwNHLDLbDDxXpmGs-2" value="Customer" style="swimlane;html=1;startSize=20;" vertex="1" parent="v8m7cwNHLDLbDDxXpmGs-0">
-          <mxGeometry x="230" y="20" width="280" height="680" as="geometry" />
+          <mxGeometry x="230" y="20" width="280" height="610" as="geometry" />
         </mxCell>
         <mxCell id="v8m7cwNHLDLbDDxXpmGs-15" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="v8m7cwNHLDLbDDxXpmGs-2">
           <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
